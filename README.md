@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChiaoYunLee
-- 👀 I’m interested in data analytics and UI/UX design
-- 🌱 I’m currently learning kotlin and working on my project for graduation
-- 💞️ I’m looking to land a job as an intern
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning R and doing related projects
+- 💞️ I’m looking to land a job as an data analyst
 - 📫 Send me an email if you want to reach me: iriscyleetw@gmail.com
 
 <!---
