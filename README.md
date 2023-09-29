@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ChiaoYunLee
+- 👋 Hi, I’m @IrisLee
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning R and doing related projects
-- 💞️ I’m looking to land a job as an data analyst
+- 💞️ I’m looking to land a job as a data scientists in wellness industry
 - 📫 Send me an email if you want to reach me: iriscyleetw@gmail.com
 
 <!---
