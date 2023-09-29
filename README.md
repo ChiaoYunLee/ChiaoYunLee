@@ -7,8 +7,4 @@ I just graduate from the National Chengchi University with a bachelor degree in 
 - ❣️ Beside programming, I also enjoy drawing and traveling
 - 📫 How to reach me: iriscyleetw@gmail.com
 
-</font>
-<---
-ChiaoYunLee/ChiaoYunLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
