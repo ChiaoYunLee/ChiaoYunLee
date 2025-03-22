@@ -1,6 +1,6 @@
 Hi there! I am <b> Iris Lee </b> 👋
 
-I just graduated from the National Chengchi University in Taiwan with a bachelor degree in Management Information Systems this year, and I am currently working as a data analyst at Deloitte.
+I am currently a first graduate student studying Health Care Analytics and Information Technology at Carnegie Mellon University.
 
 - 💪 I'm passionate about harnessing the power of data to drive business growth as well as positive societal change.
 - 🧰 My technology stack involves Python, Java, R, SQL, and Kotlin.
